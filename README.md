@@ -2,6 +2,9 @@
 
 A Python-based dashboard for analyzing and visualizing player data from the game League of Legends. This dashboard fetches data from the Riot Games API and displays various performance metrics and visualizations.
 
+If you want to see my whole way of thinking behind this dashboard that, Describes all the parameters, metrics, tools, and my analytical mindset behind this dashboard. you can go to "Analysis.md" and enjoy the ride with me :) 
+
+
 ## Features
 
 - Retrieve player data using the Riot Games API
