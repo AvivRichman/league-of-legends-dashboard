@@ -16,9 +16,9 @@ A Python-based dashboard for analyzing and visualizing player data from the game
 
   **The code will not run** as-is because accessing the Riot Games API requires an API key. I do not publish my personal key here, but you can obtain your own key through the Riot Games developer portal at the following link: [Riot Games Developer Portal](https://developer.riotgames.com/).
 
+If you have the API key, Paste it inside the "main.py" file into a variable named "key" in row number 8 (it's important to make sure you paste the key in quotes)
+
 For any questions on the subject, please contact me using the details at the bottom of this README file.
-
-
 
 ## Installation
 
