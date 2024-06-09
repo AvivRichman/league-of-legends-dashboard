@@ -6,8 +6,8 @@ As a passionate gamer and data analyst, I have spent nearly a decade playing Lea
 
 The purpose of this dashboard is to provide a detailed analysis of parameters, metrics, tools, and analytical approaches used in the development of this League of Legends dashboard, offering valuable insights that can help players improve their gameplay. By including this project in my portfolio, I aim to demonstrate my proficiency in data analysis, visualization, and the practical application of analytical skills in a gaming-world context.
 
-## Parameters
-This section describes the key parameters in the League of Legends.
+## key terms
+This section describes the key terms in the League of Legends.
 
 **Champion -**
 The specific character chosen by the player for a match.<br />
