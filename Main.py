@@ -5,7 +5,7 @@ from PIL import Image, ImageDraw
 from io import BytesIO
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-key = "RGAPI-1ddda9c4-1609-4f2f-9556-9c9c3e7bcb88"
+key = "Riot developer personal key"
 
 
 def player_puuid(summoner_name, tag, Regoins_m, api_key):
