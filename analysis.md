@@ -9,27 +9,27 @@ The purpose of this dashboard is to provide a detailed analysis of parameters, m
 ## Parameters
 This section describes the key parameters in the League of Legends.
 
-**Champion**
+**Champion -**
 The specific character chosen by the player for a match.
 Importance: Different champions have unique abilities, strengths, and roles that significantly impact gameplay and strategy.
 
-**Role**
+**Role -**
 The position or role assigned to the player within the game (e.g., Top, Jungle, Mid, ADC, Support).
 Importance: Each role has distinct responsibilities and contributions to the team's success, influencing gameplay style and tactics.
 
-**Game Mode**
+**Game Mode -**
 The type of game being played (e.g., Ranked, Normal, ARAM).
 Importance: Different game modes have varying rules and objectives, affecting player performance and strategic approach.
 
-**Match Duration**
+**Match Duration -**
 The length of time a match lasts.
 Importance: Match duration can impact player performance metrics and overall game dynamics.
 
-**Region**
+**Region -**
 The geographical region or server where the match was played. (I focus only on Europe and the Americas region)
 
-**Lane**
-Description: The specific lane the player is assigned to (e.g., Top, Jungle, Mid, Bot).
+**Lane -**
+The specific lane the player is assigned to (e.g., Top, Jungle, Mid, Bot).
 Importance: The lane assignment impacts gameplay strategy, matchups, and role responsibilities.
 
 There are other parameters that I didn't mention in building this dashboard like runes, Items, Summoner Spells, etc....
