@@ -10,15 +10,15 @@ The purpose of this dashboard is to provide a detailed analysis of parameters, m
 This section describes the key parameters in the League of Legends.
 
 **Champion -**
-The specific character chosen by the player for a match.
+The specific character chosen by the player for a match.<br />
 Importance: Different champions have unique abilities, strengths, and roles that significantly impact gameplay and strategy.
 
 **Role -**
-The position or role assigned to the player within the game (e.g., Top, Jungle, Mid, ADC, Support).
+The position or role assigned to the player within the game (e.g., Top, Jungle, Mid, ADC, Support).<br />
 Importance: Each role has distinct responsibilities and contributions to the team's success, influencing gameplay style and tactics.
 
 **Game Mode -**
-The type of game being played (e.g., Ranked, Normal, ARAM).
+The type of game being played (e.g., Ranked, Normal, ARAM).<br />
 Importance: Different game modes have varying rules and objectives, affecting player performance and strategic approach.
 
 **Match Duration -**
