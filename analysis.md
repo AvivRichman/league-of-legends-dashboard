@@ -56,6 +56,10 @@ Importance: Measures offensive contribution, indicating the player's ability to 
 Description: The average amount of damage taken from enemy champions per match.<br />
 Importance: Reflects the player's ability to absorb damage and their role in protecting teammates or tanking damage.
 
+**Average Game Duration**<br />
+Description: The average duration of the player's games.<br />
+Purpose: Helps understand the typical length of games and can be used to analyze pacing and game flow.
+
 **Wards placed and destroyed**<br />
 Description: Reflects the player's effectiveness in placing and destroying wards, providing vision for the team.<br />
 Importance: Essential for map control and strategic planning, as vision helps prevent ambushes and provides crucial information about enemy movements.
@@ -87,18 +91,75 @@ This section describes all the parameters and the information displayed on the L
 &ensp; &ensp; -Total wards placed - The total wards the players placed in all the games.<br />
 &ensp; &ensp; -Total wards destroyed - The total wards the players destroyed in all the games.<br />
 
+**Who Reaches Level 5 the Fastest**<br />
+
+&ensp; Description: A chart showing the average time it takes for the player to reach level 5 in different matches.<br /> Getting to level 5 is critical because in that level you get the ultimate ability called "Ult" - A special and unique ability, if you get the ability faster from your enemy you have a significant advantage over him) <br />
+
+&ensp; Purpose: Provides insights into early-game performance and efficiency in gaining experience.<br />
+
+&ensp; Metrics Used: Time to Level 5<br /> 
+
+&ensp; Parameters Description:<br />
+&ensp; &ensp; Number of times you reach faster 5: The number of times you reach faster to level 5 more than your opponent in the same role in all the matches.<br />
+&ensp; &ensp; Number of times your opp reach faster 5:  The number of times your opponent in the same role reaches faster to level 5 than you in all the matches.<br />
+&ensp; &ensp; Average time of the difference in sec: The average time in seconds that shows the difference in reaching level 5 between the player and his enemy in the same role. If the time is in plus (above zero)  then the player reaches level 5 faster on average, if the time is minus (below zero)  then the enemy reaches level 5 faster on average than the player.<br />
+
+**Lane Control Metrics**<br />
+&ensp; Description: Parameters that evaluate the differences in the player's performance against his opponent in the lane assigned to him within 10 minutes.<br />
+
+&ensp; Purpose: Analyzes the player's effectiveness in the laning phase at the early game, including farming(CS), XP, and Gold control which can affect the player's strength and contribution to the team. <br />
+
+&ensp; Metrics Used: CS per Minute, , Gold earned, Xp earned.<br />
+
+&ensp; Parameters Description:<br />
+&ensp; &ensp; CS differential at 10 minutes: The differential number of minions killed at 10 minutes.<br />
+&ensp; &ensp; XP differential at 10 minutes: The differential number of experience points (XP) at 10 minutes.<br />
+&ensp; &ensp; Gold differential at 10 minutes: The differential number of gold they get at 10 minutes.<br />
 
 
+**Most Played Champions**<br />
 
+&ensp; Description: A list of the player's most played champions with their respective games played.<br />
+
+&ensp; Purpose: Highlights the player's most effective champions.<br />
+
+&ensp; Metrics Used: Games Played per Champion.<br />
+
+&ensp; Parameters Description:<br />
+&ensp; &ensp; Top 1 champion: The most played champion with the most games in the number of games the analysis calculates.<br />
+&ensp; &ensp; Top 2 champion: The second most played champion with the most games in the number of games the analysis calculates.<br />
+&ensp; &ensp; Top 3 champion: The third most played champion with the most games in the number of games the analysis calculates.<br />
 
 **Favorite Roles**<br />
+
+&ensp; Description: A breakdown of the player's favorite roles, showing the distribution and KDA rates for each role.<br />
+
+&ensp; Purpose: Highlights the roles in which the player excels.<br />
+
+&ensp; Metrics Used: Role Distribution, KDA Rate<br />
+
+&ensp; Parameters Description:<br />
+&ensp; &ensp; N.games: Number of games played in each role.<br />
+&ensp; &ensp; KDA: KDA rate for each role.<br />
+
 **Efficiency Metrics**<br />
-**Most Played Champions**<br />
-**Who Reaches Level 5 the Fastest**<br />
-**Lane Control Metrics**<br />
+
+&ensp; Description: Parameters that measure the player's efficiency in farming, gold earning, and damage dealt .<br />
+
+&ensp; Purpose: Evaluate the player's performance and game pacing.<br />
+
+&ensp; Metrics Used: CS per Minute, Average Gold Earned, Average Game Duration,Average Damage Dealt<br />
+
+&ensp; Parameters Description:<br />
+&ensp; &ensp; Damage per minute: The average damage dealt to enemy champions by the player per minute.<br />
+&ensp; &ensp; CS per Minute: Average number of minions killed per minute.<br />
+&ensp; &ensp; Gold Earned Over Time: Amount of gold earned at different stages of the game.<br />
+
+
 **pie chart - Position**<br />
 **pie chart - type of kills**<br />
 **pie chart - type of death**<br />
+**Death map by KDA**<br />
 
 
 
