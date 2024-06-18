@@ -171,7 +171,8 @@ This section describes all the parameters and the information displayed on the L
 
 &ensp; Description: A pie chart showing the distribution of positions/roles played by the player (e.g., Top, Jungle, &ensp; Mid, ADC, Support).<br />
 
-&ensp; Purpose: Visualizes the player's role distribution, helping to understand which roles are most frequently &ensp; played.<br />
+&ensp; Purpose: Visualizes the player's role distribution, helping to understand which roles are <br />
+&ensp; &ensp; most frequently played.<br />
 
 &ensp; Metrics Used: Role Distribution<br />
 
