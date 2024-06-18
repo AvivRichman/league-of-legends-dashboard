@@ -171,8 +171,8 @@ This section describes all the parameters and the information displayed on the L
 
 &ensp; Description: A pie chart showing the distribution of positions/roles played by the player (e.g., Top, Jungle, &ensp; Mid, ADC, Support).<br />
 
-&ensp; Purpose: Visualizes the player's role distribution, helping to understand which roles are <br />
-&ensp; &ensp; most frequently played.<br />
+&ensp; Purpose: Visualizes the player's role distribution, helping to understand which roles are most <br />
+&ensp; &ensp; frequently played.<br />
 
 &ensp; Metrics Used: Role Distribution<br />
 
@@ -185,7 +185,7 @@ This section describes all the parameters and the information displayed on the L
 &ensp; Description: A pie chart displaying the distribution of different types of kills achieved by the player <br />
 &ensp; &ensp; (e.g., solo kills, ks(kill steak), etc.).<br />
 
-&ensp; Purpose: Visualizes the player's kill distribution, helping to understand the player's impact on the team. &ensp; kills.<br />
+&ensp; Purpose: Visualizes the player's kill distribution, helping to understand the player's impact on the team. <br />
 
 &ensp; Metrics Used: Kill Distribution<br />
 
@@ -212,8 +212,8 @@ This section describes all the parameters and the information displayed on the L
 &ensp; &ensp; adc & supp: Deaths where the player dies only to the enemy adc and supp.<br />
 &ensp; &ensp; myL & Jun: Deaths where the player dies only to the enemy at the same role and their<br />
 &ensp; &ensp; &ensp; jungler (most of the time its means the death was by Gank).<br />
-&ensp; &ensp; Team fight: Deaths occurring during team fights 
-&ensp; &ensp; (More then 3 participants in the player kill)<br />
+&ensp; &ensp; Team fight: Deaths occurring during team fights <br />
+&ensp; &ensp; (More then 3 participants in the player kill).<br />
 ![Type of death pie chart](https://github.com/AvivRichman/league-of-legends-dashboard/assets/172200945/7261d4cd-6747-4c3b-aa8c-b460cad674bf)
 
 **Death map by KDA**<br />
