@@ -181,8 +181,8 @@ This section describes all the parameters and the information displayed on the L
 &ensp; Parameters Description:<br />
 &ensp; &ensp; Solo Kill: Kills achieved by the player alone. The player did 100% of the damage to the enemy. <br />
 &ensp; &ensp; ks (kill steal): Kills achieved by the player. but he only does below 10% of the damage to the enemy. <br />
-&ensp; &ensp; Main Kill: Kills achieved by the player with the help of teammates. But the player did more than 65% &ensp; &ensp; of the damage to the enemy. <br />
-&ensp; &ensp; Regular Kill: Kills achieved by the player with the help of teammates. But the player did between &ensp; &ensp; 10%-65% damage to the enemy.<br />
+&ensp; &ensp; Main Kill: Kills achieved by the player with the help of teammates. But the player did more than 65% of the damage to the enemy. <br />
+&ensp; &ensp; Regular Kill: Kills achieved by the player with the help of teammates. But the player did between 10%-65% damage to the enemy.<br />
 &ensp; ![Type of kiils pie chart](https://github.com/AvivRichman/league-of-legends-dashboard/assets/172200945/ebc85a04-7930-439c-b3e3-662763888e1c)
 
 **pie chart - type of death**<br />
