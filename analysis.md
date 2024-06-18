@@ -234,30 +234,30 @@ This section describes all the parameters and the information displayed on the L
 ## Analytical Approach
 This section explains the analytical mindset and steps followed in developing the League of Legends dashboard, detailing the problem definition, data collection, data cleaning, data analysis, and visualization techniques used.
 
-**Goal:**
+**Goal:** <br />
 &ensp; To analyze player performance in League of Legends and provide actionable insights to help <br /> 
 &ensp; players improve their gameplay.
 
-**Focus Areas:**
+**Focus Areas:** <br />
 &ensp; Identifying strengths and weaknesses, understanding game dynamics, and optimizing strategies <br />
 &ensp; for better performance.
 
-**Sources of the data:**
+**Sources of the data:** <br />
 &ensp; League of Legends API, match history, and player statistics. <br />
 
-**Data Cleaning:**
+**Data Cleaning:** <br />
 &ensp; Handling missing values, removing duplicates, normalizing data, and ensuring data consistency, <br />
 &ensp; using Python libraries such as Pandas and NumPy for data manipulation and cleaning.
 
-**Process:**
+**Process:** <br />
 &ensp; Checking for completeness and accuracy of data by Converting raw data into <br />
 &ensp; a structured format suitable for analysis (Data frame).
 
-**Visualization:**
+**Visualization:** <br />
 &ensp; using Matplotlib, Seaborn, and Plotly for creating interactive and static visualizations.
 
 
-**Picture of the dashboard:**
+**Picture of the dashboard:** <br />
 ![Full Dashboard image - StavishGG](https://github.com/AvivRichman/league-of-legends-dashboard/assets/172200945/f7189f65-512a-4529-a200-2b0f77f444c8)
 
 
