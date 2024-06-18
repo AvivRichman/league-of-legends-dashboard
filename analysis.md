@@ -171,7 +171,7 @@ This section describes all the parameters and the information displayed on the L
 
 **pie chart - type of kills**<br />
 
-&ensp; Description: A pie chart displaying the distribution of different types of kills achieved by the player &ensp; &ensp; &ensp; (e.g., solo kills, ks(kill steak), etc.).<br />
+&ensp; Description: A pie chart displaying the distribution of different types of kills achieved by the player (e.g., solo kills, ks(kill steak), etc.).<br />
 
 &ensp; Purpose: Visualizes the player's kill distribution, helping to understand the player's impact on the team. &ensp; kills.<br />
 
