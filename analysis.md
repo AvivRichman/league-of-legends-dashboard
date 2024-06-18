@@ -93,8 +93,8 @@ This section describes all the parameters and the information displayed on the L
 
 **Who Reaches Level 5 the Fastest**<br />
 
-&ensp; Description: A chart showing the average time it takes for the player to reach level 5 in different matches.
-&ensp;<br /> Getting to level 5 is critical because in that level you get the ultimate ability called "Ult" - A special and unique ability, if you get the ability faster from your enemy you have a significant advantage over him) <br />
+&ensp; Description: A chart showing the average time it takes for the player to reach level 5 in different matches.<br />
+&ensp; Getting to level 5 is critical because in that level you get the ultimate ability called "Ult" - A special and unique ability, if you get the ability faster from your enemy you have a significant advantage over him) <br />
 
 &ensp; Purpose: Provides insights into early-game performance and efficiency in gaining experience.<br />
 
