@@ -128,10 +128,8 @@ This section describes all the parameters and the information displayed on the L
 &ensp; Metrics Used: Games Played per Champion.<br />
 
 &ensp; Parameters Description:<br />
-&ensp; &ensp; Top 1 champion: The most played champion with the most games in the number of games the analysis
-&ensp; &ensp; &ensp; calculates.<br />
-&ensp; &ensp; Top 2 champion: The second most played champion with the most games in the number of games the 
-&ensp; &ensp; &ensp; analysis calculates.<br />
+&ensp; &ensp; Top 1 champion: The most played champion with the most games in the number of games the analysis &ensp; &ensp; calculates.<br />
+&ensp; &ensp; Top 2 champion: The second most played champion with the most games in the number of games the &ensp; &ensp; analysis calculates.<br />
 &ensp; &ensp; Top 3 champion: The third most played champion with the most games in the number of games the analysis &ensp; &ensp; calculate.<br />
 
 **Favorite Roles**<br />
@@ -159,9 +157,36 @@ This section describes all the parameters and the information displayed on the L
 &ensp; &ensp; CS per Minute: Average number of minions killed per minute.<br />
 &ensp; &ensp; Gold Earned Over Time: Amount of gold earned at different stages of the game.<br />
 
-
 **pie chart - Position**<br />
+
+&ensp; Description: A pie chart showing the distribution of positions/roles played by the player (e.g., Top, Jungle, &ensp; Mid, ADC, Support).<br />
+
+&ensp; Purpose: Visualizes the player's role distribution, helping to understand which roles are most frequently &ensp; played.<br />
+
+&ensp; Metrics Used: Role Distribution<br />
+
+&ensp; Parameters Description:<br />
+&ensp; &ensp; Role Distribution: Percentage of games played in each role.<br />
+![Position pie chart](https://github.com/AvivRichman/league-of-legends-dashboard/assets/172200945/7713a761-562d-4de6-a5d1-c16aac6bddd5)
+
+
+
 **pie chart - type of kills**<br />
+
+&ensp; Description: A pie chart displaying the distribution of different types of kills achieved by the player (e.g., &ensp; solo kills, assists, team kills).<br />
+
+&ensp; Purpose: Visualizes the player's kill distribution, helping to understand the player's impact in securing &ensp; kills.<br />
+
+&ensp; Metrics Used: Kill Distribution<br />
+
+&ensp; Parameters Description:<br />
+&ensp; &ensp; Solo Kills: Kills achieved by the player alone.<br />
+&ensp; &ensp; Assists: Kills where the player contributed but did not secure the final blow.<br />
+&ensp; &ensp; Team Kills: Kills achieved with the help of teammates.<br />
+![Type of kiils pie chart](https://github.com/AvivRichman/league-of-legends-dashboard/assets/172200945/ebc85a04-7930-439c-b3e3-662763888e1c)
+
+
+
 **pie chart - type of death**<br />
 **Death map by KDA**<br />
 
