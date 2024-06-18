@@ -75,7 +75,7 @@ This section describes all the parameters and the information displayed on the L
 
 **General Stats**<br />
 
-&enspDescription: A summary of general statistics including total games played, total wins, total losses, and     
+&ensp; Description: A summary of general statistics including total games played, total wins, total losses, and     
 overall win rate.<br />
 
 Purpose: Provides a quick overview of the player's overall performance.<br />
