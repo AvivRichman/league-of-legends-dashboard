@@ -94,22 +94,29 @@ This section describes all the parameters and the information displayed on the L
 **Who Reaches Level 5 the Fastest**<br />
 
 &ensp; Description: A chart showing the average time it takes for the player to reach level 5 in different matches.<br />
-&ensp; Getting to level 5 is critical because in that level you get the ultimate ability called "Ult" - A special &ensp; and unique ability, if you get the ability faster from your enemy you have a significant advantage over him) <br />
+&ensp; Getting to level 5 is critical because in that level you get the ultimate ability called "Ult" - A special<br />
+&ensp; &ensp; and unique ability, if you get the ability faster from your enemy you have a significant advantage over him) <br />
 
 &ensp; Purpose: Provides insights into early-game performance and efficiency in gaining experience.<br />
 
 &ensp; Metrics Used: Time to Level 5<br /> 
 
 &ensp; Parameters Description:<br />
-&ensp; &ensp; Number of times you reach faster 5: The number of times you reach faster to level 5 more than your &ensp; &ensp; opponent in the same role in all the matches.<br />
-&ensp; &ensp; Number of times your opp reach faster 5:  The number of times your opponent in the same role reaches &ensp; &ensp; faster to level 5 than you in all the matches.<br />
-&ensp; &ensp; Average time of the difference in sec: The average time in seconds that shows the difference in
-&ensp; &ensp; reaching level 5 between the player and his enemy in the same role. If the time is in plus (above &ensp; &ensp; zero)  then the player reaches level 5 faster on average, if the time is minus (below zero)  then the &ensp; &ensp; enemy reaches level 5 faster on average than the player.<br />
+&ensp; &ensp; Number of times you reach faster 5: The number of times you reach faster to level 5 more than your <br />
+&ensp; &ensp; &ensp; opponent in the same role in all the matches.<br />
+&ensp; &ensp; Number of times your opp reach faster 5:  The number of times your opponent in the same role reaches <br /> 
+&ensp; &ensp; &ensp; faster to level 5 than you in all the matches.<br />
+&ensp; &ensp; Average time of the difference in sec: The average time in seconds that shows the difference in <br />
+&ensp; &ensp; &ensp; reaching level 5 between the player and his enemy in the same role. If the time is in <br /> 
+&ensp; &ensp; &ensp; plus (above zero)  then the player reaches level 5 faster on average, if the time is <br /> 
+&ensp; &ensp; &ensp; minus (below zero)  then the &ensp; &ensp; enemy reaches level 5 faster on average than the player.<br />
 
 **Lane Control Metrics**<br />
-&ensp; Description: Parameters that evaluate the differences in the player's performance against his opponent in the &ensp; lane assigned to him within 10 minutes.<br />
+&ensp; Description: Parameters that evaluate the differences in the player's performance against his opponent <br />
+&ensp; &ensp; in the lane assigned to him within 10 minutes.<br />
 
-&ensp; Purpose: Analyzes the player's effectiveness in the laning phase at the early game, including farming(CS), &ensp; XP, and Gold control which can affect the player's strength and contribution to the team. <br />
+&ensp; Purpose: Analyzes the player's effectiveness in the laning phase at the early game, including farming(CS), <br />
+&ensp; &ensp; XP, and Gold control which can affect the player's strength and contribution to the team. <br />
 
 &ensp; Metrics Used: CS per Minute, , Gold earned, Xp earned.<br />
 
@@ -128,9 +135,12 @@ This section describes all the parameters and the information displayed on the L
 &ensp; Metrics Used: Games Played per Champion.<br />
 
 &ensp; Parameters Description:<br />
-&ensp; &ensp; Top 1 champion: The most played champion with the most games in the number of games the analysis &ensp; &ensp; calculates.<br />
-&ensp; &ensp; Top 2 champion: The second most played champion with the most games in the number of games the &ensp; &ensp; analysis calculates.<br />
-&ensp; &ensp; Top 3 champion: The third most played champion with the most games in the number of games the analysis &ensp; &ensp; calculate.<br />
+&ensp; &ensp; Top 1 champion: The most played champion with the most games in the number of games the <br /> 
+&ensp; &ensp; &ensp; analysis calculates.<br />
+&ensp; &ensp; Top 2 champion: The second most played champion with the most games in the number of games the <br /> 
+&ensp; &ensp; &ensp; analysis calculates.<br />
+&ensp; &ensp; Top 3 champion: The third most played champion with the most games in the number of games the <br />  
+&ensp; &ensp; &ensp; analysis &ensp; &ensp; calculate.<br />
 
 **Favorite Roles**<br />
 
@@ -189,7 +199,8 @@ This section describes all the parameters and the information displayed on the L
 
 **pie chart - type of death**<br />
 
-&ensp; Description: A pie chart showing the distribution of different types of deaths experienced by the player (e.g., solo deaths, team fight deaths, etc..).<br />
+&ensp; Description: A pie chart showing the distribution of different types of deaths experienced by the player <br />
+&ensp; &ensp; (e.g., solo deaths, team fight deaths, etc..).<br />
 
 &ensp; Purpose: Visualizes the player's death distribution, helping to understand the circumstances leading to deaths.<br />
 
@@ -198,7 +209,8 @@ This section describes all the parameters and the information displayed on the L
 &ensp; Parameters Description:<br />
 &ensp; &ensp; Solo Death: Deaths where the player dies to only one enemy.<br />
 &ensp; &ensp; adc & supp: Deaths where the player dies only to the enemy adc and supp.<br />
-&ensp; &ensp; myL & Jun: Deaths where the player dies only to the enemy at the same role and their jungler (most of &ensp; &ensp; the time its means the death was by Gank).<br />
+&ensp; &ensp; myL & Jun: Deaths where the player dies only to the enemy at the same role and their<br />
+&ensp; &ensp; &ensp; jungler (most of the time its means the death was by Gank).<br />
 &ensp; &ensp; Team fight: Deaths occurring during team fights 
 &ensp; &ensp; (More then 3 participants in the player kill)<br />
 ![Type of death pie chart](https://github.com/AvivRichman/league-of-legends-dashboard/assets/172200945/7261d4cd-6747-4c3b-aa8c-b460cad674bf)
@@ -207,7 +219,8 @@ This section describes all the parameters and the information displayed on the L
 
 &ensp; Description: A heatmap showing the locations of player deaths on the map, color-coded by KDA ratio <br /> 
 
-&ensp; Purpose: Helps identify high-risk areas on the map and understand where players tend to die most frequently, &ensp; providing insights into positioning and map awareness.<br />
+&ensp; Purpose: Helps identify high-risk areas on the map and understand where players tend to die most frequently,<br /> 
+&ensp; &ensp; providing insights into positioning and map awareness.<br />
 
 &ensp; Metrics Used: KDA Ratio, Death Locations<br />
 
