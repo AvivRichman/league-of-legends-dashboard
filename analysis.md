@@ -76,16 +76,16 @@ This section describes all the parameters and the information displayed on the L
 **General Stats**<br />
 
 &ensp; Description: A summary of general statistics including total games played, total wins, total losses, and     
-overall win rate.<br />
+&ensp; overall win rate.<br />
 
-Purpose: Provides a quick overview of the player's overall performance.<br />
+&ensp; Purpose: Provides a quick overview of the player's overall performance.<br />
 
-Metrics Used: Total Games Played, Total Wins, Total Losses, KDA Ratio, Wards placed and destroyed.<br />
+&ensp; Metrics Used: Total Games Played, Total Wins, Total Losses, KDA Ratio, Wards placed and destroyed.<br />
 
-Parameters description: <br />
--Total KDA - The total KDA the player have in the analysis<br />
--Total wards placed - The total wards the players placed in all the games.<br />
--Total wards destroyed - The total wards the players destroyed in all the games.<br />
+&ensp; Parameters description: <br />
+&ensp; &ensp; -Total KDA - The total KDA the player have in the analysis<br />
+&ensp; &ensp; -Total wards placed - The total wards the players placed in all the games.<br />
+&ensp; &ensp; -Total wards destroyed - The total wards the players destroyed in all the games.<br />
 
 
 
