@@ -102,11 +102,11 @@ This section describes all the parameters and the information displayed on the L
 &ensp; Metrics Used: Time to Level 5<br /> 
 
 &ensp; Parameters Description:<br />
-&ensp; &ensp; Number of times you reach faster 5: The number of times you reach faster to level 5 more than your <br />
+&ensp; &ensp; -Number of times you reach faster 5: The number of times you reach faster to level 5 more than your <br />
 &ensp; &ensp; &ensp; opponent in the same role in all the matches.<br />
-&ensp; &ensp; Number of times your opp reach faster 5:  The number of times your opponent in the same role reaches <br /> 
+&ensp; &ensp; -Number of times your opp reach faster 5:  The number of times your opponent in the same role reaches <br /> 
 &ensp; &ensp; &ensp; faster to level 5 than you in all the matches.<br />
-&ensp; &ensp; Average time of the difference in sec: The average time in seconds that shows the difference in <br />
+&ensp; &ensp; -Average time of the difference in sec: The average time in seconds that shows the difference in <br />
 &ensp; &ensp; &ensp; reaching level 5 between the player and his enemy in the same role. If the time is in <br /> 
 &ensp; &ensp; &ensp; plus (above zero)  then the player reaches level 5 faster on average, if the time is <br /> 
 &ensp; &ensp; &ensp; minus (below zero)  then the &ensp; &ensp; enemy reaches level 5 faster on average than the player.<br />
@@ -121,9 +121,9 @@ This section describes all the parameters and the information displayed on the L
 &ensp; Metrics Used: CS per Minute, , Gold earned, Xp earned.<br />
 
 &ensp; Parameters Description:<br />
-&ensp; &ensp; CS differential at 10 minutes: The differential number of minions killed at 10 minutes.<br />
-&ensp; &ensp; XP differential at 10 minutes: The differential number of experience points (XP) at 10 minutes.<br />
-&ensp; &ensp; Gold differential at 10 minutes: The differential number of gold they get at 10 minutes.<br />
+&ensp; &ensp; -CS differential at 10 minutes: The differential number of minions killed at 10 minutes.<br />
+&ensp; &ensp; -XP differential at 10 minutes: The differential number of experience points (XP) at 10 minutes.<br />
+&ensp; &ensp; -Gold differential at 10 minutes: The differential number of gold they get at 10 minutes.<br />
 
 
 **Most Played Champions**<br />
@@ -135,11 +135,11 @@ This section describes all the parameters and the information displayed on the L
 &ensp; Metrics Used: Games Played per Champion.<br />
 
 &ensp; Parameters Description:<br />
-&ensp; &ensp; Top 1 champion: The most played champion with the most games in the number of games the <br /> 
+&ensp; &ensp; -Top 1 champion: The most played champion with the most games in the number of games the <br /> 
 &ensp; &ensp; &ensp; analysis calculates.<br />
-&ensp; &ensp; Top 2 champion: The second most played champion with the most games in the number of games the <br /> 
+&ensp; &ensp; -Top 2 champion: The second most played champion with the most games in the number of games the <br /> 
 &ensp; &ensp; &ensp; analysis calculates.<br />
-&ensp; &ensp; Top 3 champion: The third most played champion with the most games in the number of games the <br /> 
+&ensp; &ensp; -Top 3 champion: The third most played champion with the most games in the number of games the <br /> 
 &ensp; &ensp; &ensp; analysis calculate.<br />
 
 **Favorite Roles**<br />
@@ -151,8 +151,8 @@ This section describes all the parameters and the information displayed on the L
 &ensp; Metrics Used: Role Distribution, KDA Rate<br />
 
 &ensp; Parameters Description:<br />
-&ensp; &ensp; N.games: Number of games played in each role.<br />
-&ensp; &ensp; KDA: KDA rate for each role.<br />
+&ensp; &ensp; -N.games: Number of games played in each role.<br />
+&ensp; &ensp; -KDA: KDA rate for each role.<br />
 
 **Efficiency Metrics**<br />
 
@@ -163,13 +163,14 @@ This section describes all the parameters and the information displayed on the L
 &ensp; Metrics Used: CS per Minute, Average Gold Earned, Average Game Duration,Average Damage Dealt<br />
 
 &ensp; Parameters Description:<br />
-&ensp; &ensp; Damage per minute: The average damage dealt to enemy champions by the player per minute.<br />
-&ensp; &ensp; CS per Minute: Average number of minions killed per minute.<br />
-&ensp; &ensp; Gold Earned Over Time: Amount of gold earned at different stages of the game.<br />
+&ensp; &ensp; -Damage per minute: The average damage dealt to enemy champions by the player per minute.<br />
+&ensp; &ensp; -CS per Minute: Average number of minions killed per minute.<br />
+&ensp; &ensp; -Gold Earned Over Time: Amount of gold earned at different stages of the game.<br />
 
 **pie chart - Position**<br />
 
-&ensp; Description: A pie chart showing the distribution of positions/roles played by the player (e.g., Top, Jungle, &ensp; Mid, ADC, Support).<br />
+&ensp; Description: A pie chart showing the distribution of positions/roles played by the <br />
+&ensp; &ensp; player (e.g., Top, Jungle, Mid, ADC, Support).<br />
 
 &ensp; Purpose: Visualizes the player's role distribution, helping to understand which roles are most <br />
 &ensp; &ensp; frequently played.<br />
@@ -177,7 +178,7 @@ This section describes all the parameters and the information displayed on the L
 &ensp; Metrics Used: Role Distribution<br />
 
 &ensp; Parameters Description:<br />
-&ensp; &ensp; Role Distribution: Percentage of games played in each role.<br />
+&ensp; &ensp; -Role Distribution: Percentage of games played in each role.<br />
 &ensp; ![Position pie chart](https://github.com/AvivRichman/league-of-legends-dashboard/assets/172200945/7713a761-562d-4de6-a5d1-c16aac6bddd5)
 
 **pie chart - type of kills**<br />
@@ -190,11 +191,11 @@ This section describes all the parameters and the information displayed on the L
 &ensp; Metrics Used: Kill Distribution<br />
 
 &ensp; Parameters Description:<br />
-&ensp; &ensp; Solo Kill: Kills achieved by the player alone. The player did 100% of the damage to the enemy. <br />
-&ensp; &ensp; ks (kill steal): Kills achieved by the player. but he only does below 10% of the damage to the enemy. <br />
-&ensp; &ensp; Main Kill: Kills achieved by the player with the help of teammates. But the player did more than 65% <br /> 
+&ensp; &ensp; -Solo Kill: Kills achieved by the player alone. The player did 100% of the damage to the enemy. <br />
+&ensp; &ensp; -ks (kill steal): Kills achieved by the player. but he only does below 10% of the damage to the enemy. <br />
+&ensp; &ensp; -Main Kill: Kills achieved by the player with the help of teammates. But the player did more than 65% <br /> 
 &ensp; &ensp; &ensp; of the  damage to the enemy. <br />
-&ensp; &ensp; Regular Kill: Kills achieved by the player with the help of teammates. But the player did between 10%-65% <br /> 
+&ensp; &ensp; -Regular Kill: Kills achieved by the player with the help of teammates. But the player did between 10%-65% <br /> 
 &ensp; &ensp; &ensp; damage to the enemy.<br />
 &ensp; ![Type of kiils pie chart](https://github.com/AvivRichman/league-of-legends-dashboard/assets/172200945/ebc85a04-7930-439c-b3e3-662763888e1c)
 
@@ -208,12 +209,12 @@ This section describes all the parameters and the information displayed on the L
 &ensp; Metrics Used: Death Distribution<br />
 
 &ensp; Parameters Description:<br />
-&ensp; &ensp; Solo Death: Deaths where the player dies to only one enemy.<br />
-&ensp; &ensp; adc & supp: Deaths where the player dies only to the enemy adc and supp.<br />
-&ensp; &ensp; myL & Jun: Deaths where the player dies only to the enemy at the same role and their<br />
+&ensp; &ensp; -Solo Death: Deaths where the player dies to only one enemy.<br />
+&ensp; &ensp; -adc & supp: Deaths where the player dies only to the enemy adc and supp.<br />
+&ensp; &ensp; -myL & Jun: Deaths where the player dies only to the enemy at the same role and their<br />
 &ensp; &ensp; &ensp; jungler (most of the time its means the death was by Gank).<br />
-&ensp; &ensp; Team fight: Deaths occurring during team fights <br />
-&ensp; &ensp; (More then 3 participants in the player kill).<br />
+&ensp; &ensp; -Team fight: Deaths occurring during team fights <br />
+&ensp; &ensp; &ensp; (More then 3 participants in the player kill).<br />
 ![Type of death pie chart](https://github.com/AvivRichman/league-of-legends-dashboard/assets/172200945/7261d4cd-6747-4c3b-aa8c-b460cad674bf)
 
 **Death map by KDA**<br />
@@ -226,8 +227,8 @@ This section describes all the parameters and the information displayed on the L
 &ensp; Metrics Used: KDA Ratio, Death Locations<br />
 
 &ensp; Parameters Description:<br />
-&ensp; &ensp; Blue points: Where the player died when he got more than 2 KDA at that game.<br />
-&ensp; &ensp;  Red points: Where the player died when he got Below than 2 KDA at that game.<br />
+&ensp; &ensp; -Blue points: Where the player died when he got more than 2 KDA at that game.<br />
+&ensp; &ensp; -Red points: Where the player died when he got Below than 2 KDA at that game.<br />
 ![Death map by KDA](https://github.com/AvivRichman/league-of-legends-dashboard/assets/172200945/27f81ef0-0cdb-406b-ae91-0d9ccc6c4d13)
 
 
