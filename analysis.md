@@ -74,6 +74,7 @@ These metrics provide a comprehensive overview of player performance, enabling a
 This section describes all the parameters and the information displayed on the League of Legends dashboard.
 
 **General Stats**<br />
+
   Description: A summary of general statistics including total games played, total wins, total losses, and     
     overall win rate.<br />
 
