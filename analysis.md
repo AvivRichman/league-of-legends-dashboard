@@ -6,6 +6,8 @@ As a passionate gamer and data analyst, I have spent nearly a decade playing Lea
 
 The purpose of this dashboard is to provide a detailed analysis of parameters, metrics, tools, and analytical approaches used in the development of this League of Legends dashboard, offering valuable insights that can help players improve their gameplay. By including this project in my portfolio, I aim to demonstrate my proficiency in data analysis, visualization, and the practical application of analytical skills in a gaming-world context.
 
+-The dashboard can make an analysis between 3-100 matches in the specific modes of Ranked or normal.
+
 ## key terms
 This section describes the key terms in the League of Legends.
 
@@ -67,3 +69,24 @@ Description: The player's effectiveness in securing major objectives such as dra
 Importance: Objective control is vital for gaining strategic advantages and securing victories.
 
 These metrics provide a comprehensive overview of player performance, enabling a detailed analysis of strengths, weaknesses, and areas for improvement in League of Legends gameplay.
+
+## Parameters
+This section describes all the parameters and the information displayed on the League of Legends dashboard.
+
+**General Stats**<br />
+**Favorite Roles**<br />
+**Efficiency Metrics**<br />
+**Most Played Champions**<br />
+**Who Reaches Level 5 the Fastest**<br />
+**Lane Control Metrics**<br />
+**pie chart - Position**<br />
+**pie chart - type of kills**<br />
+**pie chart - type of death**<br />
+
+
+
+
+
+
+
+
