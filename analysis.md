@@ -167,33 +167,52 @@ This section describes all the parameters and the information displayed on the L
 
 &ensp; Parameters Description:<br />
 &ensp; &ensp; Role Distribution: Percentage of games played in each role.<br />
-![Position pie chart](https://github.com/AvivRichman/league-of-legends-dashboard/assets/172200945/7713a761-562d-4de6-a5d1-c16aac6bddd5)
-
-
+&ensp; ![Position pie chart](https://github.com/AvivRichman/league-of-legends-dashboard/assets/172200945/7713a761-562d-4de6-a5d1-c16aac6bddd5)
 
 **pie chart - type of kills**<br />
 
-&ensp; Description: A pie chart displaying the distribution of different types of kills achieved by the player (e.g., &ensp; solo kills, assists, team kills).<br />
+&ensp; Description: A pie chart displaying the distribution of different types of kills achieved by the player
+&ensp; (e.g., &ensp; solo kills, ks(kill steak), etc.).<br />
 
-&ensp; Purpose: Visualizes the player's kill distribution, helping to understand the player's impact in securing &ensp; kills.<br />
+&ensp; Purpose: Visualizes the player's kill distribution, helping to understand the player's impact on the team. &ensp; kills.<br />
 
 &ensp; Metrics Used: Kill Distribution<br />
 
 &ensp; Parameters Description:<br />
-&ensp; &ensp; Solo Kills: Kills achieved by the player alone.<br />
-&ensp; &ensp; Assists: Kills where the player contributed but did not secure the final blow.<br />
-&ensp; &ensp; Team Kills: Kills achieved with the help of teammates.<br />
-![Type of kiils pie chart](https://github.com/AvivRichman/league-of-legends-dashboard/assets/172200945/ebc85a04-7930-439c-b3e3-662763888e1c)
-
-
+&ensp; &ensp; Solo Kill: Kills achieved by the player alone. The player did 100% of the damage to the enemy. <br />
+&ensp; &ensp; ks (kill steal): Kills achieved by the player. but he only does below 10% of the damage to the enemy. <br />
+&ensp; &ensp; Main Kill: Kills achieved by the player with the help of teammates. But the player did more than 65% &ensp; &ensp; of the damage to the enemy. <br />
+&ensp; &ensp; Regular Kill: Kills achieved by the player with the help of teammates. But the player did between &ensp; &ensp; 10%-65% damage to the enemy.<br />
+&ensp; ![Type of kiils pie chart](https://github.com/AvivRichman/league-of-legends-dashboard/assets/172200945/ebc85a04-7930-439c-b3e3-662763888e1c)
 
 **pie chart - type of death**<br />
+
+&ensp; Description: A pie chart showing the distribution of different types of deaths experienced by the player (e.g., solo deaths, team fight deaths, etc..).<br />
+
+&ensp; Purpose: Visualizes the player's death distribution, helping to understand the circumstances leading to deaths.<br />
+
+&ensp; Metrics Used: Death Distribution<br />
+
+&ensp; Parameters Description:<br />
+&ensp; &ensp; Solo Death: Deaths where the player dies to only one enemy.<br />
+&ensp; &ensp; adc & supp: Deaths where the player dies only to the enemy adc and supp.<br />
+&ensp; &ensp; myL & Jun: Deaths where the player dies only to the enemy at the same role and their jungler (most of &ensp; &ensp; the time its means the death was by Gank).<br />
+&ensp; &ensp; Team fight: Deaths occurring during team fights 
+&ensp; &ensp; (More then 3 participants in the player kill)<br />
+![Type of death pie chart](https://github.com/AvivRichman/league-of-legends-dashboard/assets/172200945/7261d4cd-6747-4c3b-aa8c-b460cad674bf)
+
 **Death map by KDA**<br />
 
+&ensp; Description: A heatmap showing the locations of player deaths on the map, color-coded by KDA ratio <br /> 
 
+&ensp; Purpose: Helps identify high-risk areas on the map and understand where players tend to die most frequently, &ensp; providing insights into positioning and map awareness.<br />
 
+&ensp; Metrics Used: KDA Ratio, Death Locations<br />
 
-
+&ensp; Parameters Description:<br />
+&ensp; &ensp; Blue points: Where the player died when he got more than 2 KDA at that game.<br />
+&ensp; &ensp;  Red points: Where the player died when he got Below than 2 KDA at that game.<br />
+![Death map by KDA](https://github.com/AvivRichman/league-of-legends-dashboard/assets/172200945/27f81ef0-0cdb-406b-ae91-0d9ccc6c4d13)
 
 
 
