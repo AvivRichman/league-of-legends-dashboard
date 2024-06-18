@@ -129,8 +129,7 @@ This section describes all the parameters and the information displayed on the L
 
 &ensp; Parameters Description:<br />
 &ensp; &ensp; Top 1 champion: The most played champion with the most games in the number of games the analysis &ensp; &ensp; calculates.<br />
-&ensp; &ensp; Top 2 champion: The second most played champion with the most games in the number of games the 
-&ensp; &ensp; analysis calculates.<br />
+&ensp; &ensp; Top 2 champion: The second most played champion with the most games in the number of games the analysis calculates.<br />
 &ensp; &ensp; Top 3 champion: The third most played champion with the most games in the number of games the analysis &ensp; &ensp; calculate.<br />
 
 **Favorite Roles**<br />
